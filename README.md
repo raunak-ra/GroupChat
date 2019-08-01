@@ -1,1 +1,1 @@
-# GroupChat
+# Group Chat Model
